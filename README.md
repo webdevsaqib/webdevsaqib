@@ -11,6 +11,14 @@
   </a>
 </p>
 
+</br>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,redux,html,css,tailwind,nodejs,express,mongo,appwrite,firebase,aws,git,github,githubactions,gitlab,postman,wordpress&theme=light" />
+  </a>
+</p>
+
 <p align="center">
   </br>
   
